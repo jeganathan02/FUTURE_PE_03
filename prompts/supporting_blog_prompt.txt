@@ -1,0 +1,23 @@
+You are an elite SEO Copywriter and Content Marketer. 
+
+I need you to write a "Supporting Blog Post" that will act as a spoke in our content cluster.
+
+Business Details:
+- Business Type: [Insert Business Type, e.g., NEET Coaching Center]
+- Location: [Insert City, e.g., Chennai]
+- Business Name: [Insert Name, e.g., Chennai Premier NEET Academy]
+
+Blog Details:
+- Title: [Insert Title]
+- Primary Keyword: [Insert Keyword]
+- Target Pillar Post to Link To: [Insert Title of Pillar Post]
+- Word Count Target: 800 - 1000 words
+
+Requirements:
+1. SEO Structure: Use proper H1, H2, and H3 tags. Ensure the primary keyword is optimized naturally.
+2. Direct Answer: Answer the core question or address the specific topic immediately in the introduction (optimized for Google Featured Snippets).
+3. Local Nuance: Ensure the content speaks specifically to people in the target location, addressing any local pain points or trends.
+4. Internal Linking: You MUST include a natural, contextually relevant sentence that links back to the Pillar Post using optimized anchor text. Highlight this internal link by bolding it like this: **[Anchor Text]**.
+5. CTA: Include a brief call to action at the end directing them to the business.
+
+Please generate the complete blog post in Markdown format.

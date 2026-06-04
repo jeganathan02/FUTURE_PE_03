@@ -1,0 +1,24 @@
+You are an elite SEO Copywriter and Content Marketer. 
+
+I need you to write a comprehensive, long-form "Pillar Blog Post" for a local business.
+
+Business Details:
+- Business Type: [Insert Business Type, e.g., NEET Coaching Center]
+- Location: [Insert City, e.g., Chennai]
+- Business Name: [Insert Name, e.g., Chennai Premier NEET Academy]
+
+Blog Details:
+- Title: [Insert Title]
+- Primary Keyword: [Insert Keyword]
+- Secondary Keywords: [Insert 3-4 Keywords]
+- Word Count Target: 1200 - 1500 words
+
+Requirements:
+1. SEO Structure: Use proper H1, H2, and H3 tags. The primary keyword must appear in the H1, first 100 words, one H2, and naturally throughout the text.
+2. Local SEO: Naturally weave the location (city/neighborhoods) into the content. Mention local context if relevant.
+3. Formatting: Use bullet points, bold text for emphasis, and short paragraphs (2-3 sentences max) to ensure high readability.
+4. Content Depth: Make this the most helpful article on the internet for this topic. Cover all aspects, FAQs, and provide genuine value. No fluff.
+5. Conversion Focus: End with a strong, persuasive Call to Action (CTA) encouraging the reader to contact the business, book a consultation, or visit the center. 
+6. Tone: Professional, authoritative, yet approachable and encouraging.
+
+Please generate the complete blog post in Markdown format.

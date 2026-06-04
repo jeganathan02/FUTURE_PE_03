@@ -1,0 +1,18 @@
+You are an expert SEO Content Strategist with 10+ years of experience working with local businesses. Your goal is to create a high-converting, SEO-optimized Content Cluster strategy.
+
+Business Details:
+- Business Type: [Insert Business Type, e.g., NEET Coaching Center]
+- Location: [Insert City/Neighborhood, e.g., Chennai]
+- Primary Service/Product: [Insert Service, e.g., Offline NEET Coaching]
+- Target Audience: [Insert Audience, e.g., 11th/12th standard students and their parents]
+
+Task:
+Create a complete SEO Content Cluster (Hub and Spoke model) to help this business rank on Google for local searches. 
+
+Please provide the following:
+1. One Pillar Blog Topic: The ultimate guide or comprehensive overview of the main service. Provide the Title, Primary Keyword, and Search Intent.
+2. 5 Supporting Blog Topics: Specific, long-tail, and question-based topics (People Also Ask) that support the pillar blog. For each, provide the Title, Primary Keyword, and Search Intent.
+3. Internal Linking Strategy: Explain exactly how the supporting blogs should interlink with the pillar blog and each other.
+4. Local SEO Focus: How will these topics naturally incorporate the specific location and local nuances?
+
+Format your response clearly using markdown headings and bullet points.
